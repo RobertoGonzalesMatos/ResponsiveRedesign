@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AccesibleDesign/static/css/main.b5bfd7cf.css",
+    "main.js": "/AccesibleDesign/static/js/main.398615d2.js",
+    "static/media/list.svg": "/AccesibleDesign/static/media/list.68d79750f96fab398508416ad6daeb2c.svg",
+    "static/media/threeLines.svg": "/AccesibleDesign/static/media/threeLines.a3c6357b4805c0ad59bd0c0785880ff1.svg",
+    "static/media/drop.svg": "/AccesibleDesign/static/media/drop.4dd97ff7a52adc25a77e1e4ef0fcd6df.svg",
+    "index.html": "/AccesibleDesign/index.html",
+    "static/media/upArrow.svg": "/AccesibleDesign/static/media/upArrow.d987dd03d9bd8e606b679414eeb00520.svg",
+    "static/media/check.svg": "/AccesibleDesign/static/media/check.491c7c33a15eba9f6b6ba1f3d0b86a12.svg",
+    "main.b5bfd7cf.css.map": "/AccesibleDesign/static/css/main.b5bfd7cf.css.map",
+    "main.398615d2.js.map": "/AccesibleDesign/static/js/main.398615d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5bfd7cf.css",
+    "static/js/main.398615d2.js"
+  ]
+}
