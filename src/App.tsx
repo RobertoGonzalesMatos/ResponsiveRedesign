@@ -177,7 +177,7 @@ function App() {
                 if (el) sectionRefs.current["analysis"] = el;
               }}
             >
-              Analysis of the currect webpage
+              Analysis of MamiSinCancer's currect webpage
             </h2>
             <p>
               Before going into the analysis, the reason why I chose this
@@ -185,8 +185,15 @@ function App() {
               against cancer. This page was made with wix but now it needs a
               redesign given the time that has passed. To make MamisinCancer’s
               outreach greater, having a good website is important. Here is the
-              current version: https://mamisincancer.wixsite.com/my-site-4
+              current version:
             </p>
+            <a
+              href="https://mamisincancer.wixsite.com/my-site-4"
+              target="_blank"
+            >
+              MamisinCancer
+            </a>
+
             <p>
               Lets start the analysis by going through the page and identifying
               elements that could hinder the usabulity learnability or
@@ -499,7 +506,8 @@ function App() {
                     maintain readability and avoid cutting elements to the
                     sides. The carousel has its images reduced and the embeded
                     videos have reduced their scale but mantaining their aspect
-                    ratio.
+                    ratio. Elements such as the sections and their layouts are
+                    kept the same as the desktop version.
                   </Typography>
                 </AccordionDetails>
               </Accordion>
@@ -576,10 +584,12 @@ function App() {
                     For the mobile version we mantain the hamburger menu for the
                     navigation bar, however nor more items have changes. The
                     carousel now only presents a single image but it preserves
-                    the arrows to the sides to indicate there are more images,
+                    the arrows to the sides to indicate there are more images.
                     Also sections which had elements in columns now change to
                     have their elements in rows. All other elements are
                     preserved or scale down to neatly fit the new aspect ratio.
+                    In comparaison to the original, this is a major improvement
+                    as the webpage is now usable in a phone device
                   </Typography>
                 </AccordionDetails>
               </Accordion>
